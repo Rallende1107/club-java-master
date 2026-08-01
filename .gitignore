@@ -3,7 +3,6 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
-.idea/
 
 ### Eclipse ###
 .apt_generated
@@ -30,11 +29,10 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-### Mac OS ###
-*.iml
 
-# Created by https://www.toptal.com/developers/gitignore/api/java
-# Edit at https://www.toptal.com/developers/gitignore?templates=java
+### otros ###
+.idea/
+*.iml
 
 ### Java ###
 # Compiled class file
