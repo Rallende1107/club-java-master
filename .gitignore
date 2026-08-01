@@ -30,9 +30,10 @@ bin/
 .DS_Store
 
 
-### otros ###
+### IntelliJ IDEA ###
 .idea/
 *.iml
+
 
 ### Java ###
 # Compiled class file
